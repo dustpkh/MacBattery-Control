@@ -12,7 +12,7 @@
 - 버전: 1.0
 - 운영체제: Windows
 - 배포 방식: 무료 비공개 소프트웨어 (Closed-source Freeware)
-- 개발자: Park Kyoung Hwan
+- 개발자: 박경환
 - AI 개발 협력: OpenAI ChatGPT
 
 ## 주요 기능
