@@ -49,4 +49,9 @@ MacBattery Control is distributed as closed-source freeware.
 
 ---
 
+## Download Statistics
+
+Total Downloads: [자동 집계 배지]
+---
+
 © 2026 Park Kyoung Hwan. All Rights Reserved.
