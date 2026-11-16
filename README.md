@@ -3,8 +3,7 @@ Free Battery Management Software for Windows# MacBattery Control
 
 **Free Battery Management Software for MacBook Running Windows**
 
-[![Download Latest Release](https://shields.io)](https://github.com)
-
+[![Download Beta 1.0](https://shields.io)](https://github.com)
 
 MacBattery Control is a Windows application designed to manage MacBook battery charging through Apple SMC communication.
 
