@@ -49,4 +49,15 @@ MacBattery Control은 무료 비공개 소프트웨어입니다.
 
 ---
 
+## Download Statistics
+
+**Total Downloads**
+
+[![Total Downloads](https://img.shields.io/github/downloads/dustpkh/MacBattery-Control/total.svg?label=Total%20Downloads&style=for-the-badge&color=blue)](https://github.com/dustpkh/MacBattery-Control/releases)
+
+---
+
+© 2026 Park Kyoung Hwan. All Rights Reserved.
+---
+
 © 2026 Park Kyoung Hwan. All Rights Reserved.
