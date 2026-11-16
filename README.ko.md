@@ -1,6 +1,6 @@
 # MacBattery Control
 
-[English](README.md) | [한국어](README.ko.md)
+[여어](README.md) | [한국어](README.ko.md)
 
 **Windows용 Mac 배터리 관리 프로그램**
 
