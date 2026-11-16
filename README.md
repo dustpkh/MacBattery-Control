@@ -1,5 +1,7 @@
 # MacBattery Control
 
+[English](README.md) | [한국어](README.ko.md)
+
 **Mac Battery Management Utility for Windows**
 
 ## 📥 Download
