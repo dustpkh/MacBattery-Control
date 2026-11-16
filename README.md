@@ -3,7 +3,7 @@ Free Battery Management Software for Windows# MacBattery Control
 
 **Free Battery Management Software for MacBook Running Windows**
 
-[<p align="center">
+<p align="center">
   <a href="https://github.com/dustpkh/MacBattery-Control/releases/latest">
     <img src="https://img.shields.io/badge/Download-MacBattery%20Control-blue?style=for-the-badge&logo=windows" />
   </a>
@@ -13,7 +13,7 @@ MacBattery Control is a Windows application designed to manage MacBook battery c
 
 Developed for MacBook users running Windows, including Boot Camp on Intel Macs.
 
-## Features
+## Featuresㅁ
 
 - **Battery Charging Limit Control:** Set and maintain your maximum charge limit between 60% and 90% in 10% increments (60%, 70%, 80%, 90%).
 - **Battery Status Monitoring:** Real-time battery health and charging status tracking.
